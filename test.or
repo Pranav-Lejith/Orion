@@ -1,0 +1,14 @@
+display "Welcome to Orion Calculator"
+
+get num1 "Enter first number"
+num1 = int num1
+
+get num2 "Enter second number"
+num2 = int num2
+
+get operation "Enter operation (add / sub / mul / div)"
+
+result = calculator num1 num2 operation
+
+display "Result is"
+display result
