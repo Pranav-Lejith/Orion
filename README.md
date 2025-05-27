@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/File-Execution-orange?style=for-the-badge&logo=file&logoColor=white" alt="File Execution" />
   <img src="https://img.shields.io/badge/Built--in-Functions-purple?style=for-the-badge&logo=function&logoColor=white" alt="Built-in Functions" />
   <img src="https://img.shields.io/badge/Object--Oriented-Programming-red?style=for-the-badge&logo=code&logoColor=white" alt="OOP Support" />
-  <img src="https://img.shields.io/badge/Technokreate-FF4B4B?style=for-the-badge&logo=taipy&logoColor=white" alt="Technokreate" />
+  <img src="https://img.shields.io/badge/ORION-Interpreter-cyan?style=for-the-badge&logo=star&logoColor=white" alt="Orion" />
     <a href="./LICENSE">
   <img src="https://img.shields.io/badge/license-PUOL--v1.0-red?style=for-the-badge" alt="License: PUOL v1.0" />
 </a></p>
