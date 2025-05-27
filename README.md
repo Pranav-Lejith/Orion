@@ -29,7 +29,6 @@ Orion Interpreter is a powerful, feature-rich custom programming language interp
 
 This project was created by **Pranav Lejith (Amphibiar)**.
 
-![Orion Logo](https://img.shields.io/badge/ORION-Interpreter-cyan?style=for-the-badge&logo=star&logoColor=white)
 
 ## Features
 
