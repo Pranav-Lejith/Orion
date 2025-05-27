@@ -198,7 +198,7 @@ We welcome contributions to the Orion Interpreter! Please feel free to:
 
 ## License
 
-This project is licensed under the PUOL(v1) License. See [LICENSE](./LICENSE) for details.
+This project is licensed under the PUOL(v1.0) License. See [LICENSE](./LICENSE) for details.
 
 ## Credits and Acknowledgments
 
